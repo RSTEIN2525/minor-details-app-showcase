@@ -2,9 +2,6 @@
 
 **A custom-built, real-time dashboard for managing auto detailing services across 50+ dealerships and 300+ employees.**
 
-![App Screenshot](assets/screenshot.png)  
-*Screenshot: Overview of basic app functionality and aesthetics.*  
-
 ---
 
 ## Overview
