@@ -44,7 +44,3 @@ Founder & Lead Developer, O³ Innovations
 📧 [ryanstein@o3innovations.com](mailto:ryanstein@o3innovations.com)  
 📞 (443) 571-3151  
 🌐 [o3innovations.com](https://www.o3innovations.com)
-
----
-
-*Note: For detailed documentation on workflows, roles, and error handling, refer to the knowledge base provided upon request.*
